@@ -15,6 +15,10 @@ public class Area__PerimeterOfRectangle {
 
         int peri = 2*(length + width);
         System.out.println("Perimeter of Rectangle = "+ peri +" units");
+
+
+        
     }
+    
     
 }
